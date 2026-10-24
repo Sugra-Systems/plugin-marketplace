@@ -1209,9 +1209,15 @@
       }
     },
     "sugra-api": {
-      "sha": "00e939b6182c00b4727e124dcf4ba8c288401c3f",
-      "version": "1.2.0",
+      "sha": "2e9706de78d6c16d5827c8ed1face008a9f4c989",
+      "version": "1.2.1",
       "components": {
+        "mcpServers": [
+          {
+            "name": "sugra-api",
+            "description": "http"
+          }
+        ],
         "skills": [
           {
             "name": "auth-and-quota",
