@@ -475,6 +475,20 @@
       }
     },
     {
+      "name": "expo",
+      "description": "Official Expo plugin for building, testing with iOS and Android cloud simulators, deploying, and monitoring apps on Android, iOS, and web.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/expo/skills.git",
+        "sha": "0d035556e37737de83199d8e623641bad7a7cced",
+        "path": "plugins/expo"
+      },
+      "homepage": "https://docs.expo.dev/agents/",
+      "keywords": ["expo"],
+      "domains": ["expo.dev", "docs.expo.dev", "expo.io"]
+    },
+    {
       "name": "sugra-api",
       "description": "Skills for the Sugra API: find the right endpoint, call it with the right parameters over HTTPS or MCP, and cite the source and date of every figure.",
       "category": "development",
